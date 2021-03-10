@@ -1,2 +1,2 @@
 <?php
-    require ('public/index.html');
+    require ('index.html');
